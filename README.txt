@@ -1,1 +1,0 @@
-Projeto em Java (Spring Boot) que simula a sincronização de receitas através de manipulação de arquivos CSV.
